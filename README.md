@@ -25,6 +25,7 @@ npm --version
 
 #### Linux (Ubuntu/Debian)
 ```bash
+sudo apt install build-essential
 sudo apt update
 sudo apt install nodejs npm
 node --version
@@ -45,7 +46,7 @@ npm --version
 ### Step 1: Navigate to Project Directory
 
 ```bash
-cd c:\Users\ASUS\Desktop\methodaTest
+cd methodaTest
 # or on Linux:
 cd ~/path/to/methodaTest
 ```
