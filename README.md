@@ -2,6 +2,10 @@
 
 A status workflow configuration management system with dynamic status creation, transitions, and initial status selection.
 
+# Preview
+<img width="1149" height="857" alt="image" src="https://github.com/user-attachments/assets/310bdd73-1b96-417c-a326-a48d8ab1845f" />
+
+
 ## Prerequisites
 
 - **Node.js** (version 16 or higher)
