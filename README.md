@@ -1,4 +1,4 @@
-# Methodia - Configuration Management System
+# Methoda - Configuration Management System
 
 A status workflow configuration management system with dynamic status creation, transitions, and initial status selection.
 
